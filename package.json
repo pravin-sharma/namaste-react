@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/pravin-sharma/namaste-react#readme",
   "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "babel-plugin-transform-remove-console": "^6.9.4",
     "parcel": "^2.8.3",
     "process": "^0.11.10"
   },
@@ -25,7 +27,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "browserlist":[
-    "last 10 chrome version","last 10 safari version"
+  "browserslist": [
+    "last 10 chrome version",
+    "last 10 safari version"
   ]
 }
